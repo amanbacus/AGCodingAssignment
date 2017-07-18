@@ -1,0 +1,7 @@
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\ProcessTweets\bin\Debug\ProcessTweets.dll
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\ProcessTweets\bin\Debug\ProcessTweets.pdb
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\ProcessTweets\bin\Debug\Helpers.dll
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\ProcessTweets\bin\Debug\Helpers.pdb
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\ProcessTweets\obj\Debug\ProcessTweets.csprojResolveAssemblyReference.cache
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\ProcessTweets\obj\Debug\ProcessTweets.dll
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\ProcessTweets\obj\Debug\ProcessTweets.pdb

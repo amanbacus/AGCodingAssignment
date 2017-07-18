@@ -1,0 +1,10 @@
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\AllanGrayCodingAssignment\bin\Debug\AllanGrayCodingAssignment.exe.config
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\AllanGrayCodingAssignment\bin\Debug\AllanGrayCodingAssignment.exe
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\AllanGrayCodingAssignment\bin\Debug\AllanGrayCodingAssignment.pdb
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\AllanGrayCodingAssignment\bin\Debug\Helpers.dll
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\AllanGrayCodingAssignment\bin\Debug\ProcessTweets.dll
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\AllanGrayCodingAssignment\bin\Debug\Helpers.pdb
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\AllanGrayCodingAssignment\bin\Debug\ProcessTweets.pdb
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\AllanGrayCodingAssignment\obj\Debug\AllanGrayCodingAssignment.csprojResolveAssemblyReference.cache
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\AllanGrayCodingAssignment\obj\Debug\AllanGrayCodingAssignment.exe
+C:\Users\om21581\Documents\Visual Studio 2015\Projects\Allan Gray Coding Assignment\AllanGrayCodingAssignment\AllanGrayCodingAssignment\obj\Debug\AllanGrayCodingAssignment.pdb
